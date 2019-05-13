@@ -1,4 +1,4 @@
-# Statistical-Learning
+# Statistical Learning and big data
 School projects / Homework assignments containing reusable code
 
 Covered : 
